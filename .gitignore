@@ -1,0 +1,6 @@
+build/
+*.exe
+*.dll
+build_out.txt
+build_err.txt
+.vscode/
